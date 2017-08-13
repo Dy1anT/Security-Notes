@@ -1,0 +1,25 @@
+sqlserver默认端口号为：1433
+MySQL 默认端口号为：3306
+Oracle 默认端口号为：1521
+
+=================================================================
+
+ sqlserver默认端口号为：1433
+
+URL:"jdbc:microsoft:sqlserver://localhost:1433;DatabaseName=dbname"
+
+DRIVERNAME:"com.microsoft.jdbc.sqlserver.SQLServerDriver";
+
+
+MySQL 默认端口号为：3306
+
+URL:jdbc:mysql://localhost:3306/test?user=root&password=&useUnicode=true&characterEncoding=gbk
+
+DRIVERNAME:"com.mysql.jdbc.Driver";
+
+
+Oracle 默认端口号为：1521
+
+URL:"jdbc:oracle:thin:@localhost :1521:orcl";
+
+DRIVERNAME:"oracle.jdbc.driver.OracleDriver";
