@@ -1,0 +1,4 @@
+常见源码泄露方式
+ - 编辑器：filename.php~ .filename.php.swp filename.swp
+ - 管理员：filename.php.bak filename.bak wwwroot|www.zip|rar|tar
+ - 版本控制：.git .svn
