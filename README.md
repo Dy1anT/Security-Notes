@@ -43,6 +43,11 @@
 + [Bugku新平台](https://new.bugku.com/)
 + [PwnHub](https://pwnhub.cn/index)
 
+## 学习平台
++ [i春秋](https://www.ichunqiu.com/)
++ [实验吧](http://www.shiyanbar.com/)
++ [合天实验室](http://www.hetianlab.com/)
+
 ## 媒体平台
 + [FreeBuf](https://www.freebuf.com/)
 + [安全客](https://www.anquanke.com/)
