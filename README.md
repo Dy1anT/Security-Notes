@@ -1,5 +1,5 @@
 # Security-Notes
-一些信息安全笔记整理（个人向）
+一些信息安全笔记整理
  
 ## Web安全
 ### 1. SQL注入
@@ -21,16 +21,17 @@
 
 ### 5.代码审计
 + [ctf中的php代码审计技巧](http://www.am0s.com/ctf/200.html)
++ [PHP网站渗透中的奇技淫巧：检查相等时的漏洞](https://www.freebuf.com/articles/web/129607.html)
 
 ## 软件安全
 + [一步一步学ROP(ROP_STEP_BY_STEP)](https://github.com/zhengmin1989/ROP_STEP_BY_STEP)
-+ 挖坑向
++ 挖坑
 ## CTF相关
 ### CTF
 + [CTF Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 
 ### AWD
-+ [CTF线下AWD攻防模式的准备工作及起手式](https://blog.csdn.net/like98k/article/details/80261603) （郁离歌！郁离歌！）
++ [CTF线下AWD攻防模式的准备工作及起手式](https://blog.csdn.net/like98k/article/details/80261603)
 + [CTF线下防御战 — 让你的靶机变成“铜墙铁壁”](https://www.anquanke.com/post/id/86984)
 + [CTF线下赛AWD套路小结](https://xz.aliyun.com/t/25)
 + [CTF线下赛AWD模式下的生存技巧](https://www.anquanke.com/post/id/84675)
@@ -44,7 +45,7 @@
 
 ## 媒体平台
 + [FreeBuf](https://www.freebuf.com/)
-+ [安全客(一定要下App，季刊会送礼品)](https://www.anquanke.com/)
++ [安全客](https://www.anquanke.com/)
 
 ## 公众号
 
