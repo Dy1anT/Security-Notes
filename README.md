@@ -43,6 +43,10 @@
 + [Bugku新平台](https://new.bugku.com/)
 + [PwnHub](https://pwnhub.cn/index)
 
+## 信安论坛
++ [吾爱破解](https://www.52pojie.cn/)
++ [看雪](https://bbs.pediy.com/)
+
 ## 学习平台
 + [i春秋](https://www.ichunqiu.com/)
 + [实验吧](http://www.shiyanbar.com/)
@@ -51,6 +55,7 @@
 ## 媒体平台
 + [FreeBuf](https://www.freebuf.com/)
 + [安全客](https://www.anquanke.com/)
++ [安全牛](https://www.aqniu.com/)
 
 ## 公众号
 + 黑白之道
